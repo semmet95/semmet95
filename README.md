@@ -39,6 +39,7 @@ kubernetes,go,docker,githubactions,heroku,java,linux,mysql,postgres,pytorch,sass
 
 ## Latest Blog Posts
 
+- [Experimenting With AI: Part 2](https://medium.com/@singhamit/experimenting-with-ai-part-2-3f6ffa2c96dd)
 - [Experimenting With AI: Part 1](https://singhamit.medium.com/experimenting-with-ai-part-1-c8200e984740)
 - [Learning Microservices From Scratch — Part 2](https://singhamit.medium.com/learning-microservices-from-scratch-part-2-2d022910459f)  
 
