@@ -32,6 +32,8 @@ https://github.com/semmet95/navidrome-deployer**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semmet95&show_icons=true&locale=en" alt="semmet95" /></p>
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=semmet95)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 ## My Talks
 
 - [KubeVela](https://ossindia2025.sched.com/event/27HDc/sponsored-session-platform-engineering-with-kubevela-shipping-apps-the-cloud-native-way-ayush-kumar-amit-singh-guidewire) - Platform Engineering with Kubevela: Shipping apps the Cloud Native way.
