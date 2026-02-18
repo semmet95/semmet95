@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Amit Singh's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 104, Total PRs: 126, Total Issues: 58, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 95, Total PRs: 126, Total Issues: 58, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 120.34095710646012;
+        stroke-dashoffset: 121.13422138919111;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >104</text>
+      >95</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >13</text>
     </g>
   </g>
     </svg>
