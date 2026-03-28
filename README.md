@@ -4,10 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semmet95" alt="semmet95" /></a> </p>
 
-- 🔭 I'm currently working on **I'm exploring open source projects that (at least to some extent) could act as self-hosted alternatives to paid online services. I'm also looking to get back into microservice development.**
+- 🔭 I'm currently working on **a microservice that stores scores for news/claim sources to see how reliable a source is**
 
-- 🌱 I'm currently learning **Trying to deploy Navidrome (kinda self-hosted Spotify) on a K8S cluster and expose a music player and a music uploader interfaces publicly.
-https://github.com/semmet95/navidrome-deployer**
+- 🌱 I'm currently learning **everything about developing awesome microservices using Go**
 
 - 👯 I'm looking to collaborate on **Pretty much anything cloud-native. I love working on projects related to Kubernetes. I'm also honing my Golang skills, so I'm up for anything that could help me with that too.**
 
