@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semmet95" alt="semmet95" /></a> </p>
 
-- 🔭 I'm currently working on **a microservice that stores scores for news/claim sources to see how reliable a source is**
+- 🔭 I'm currently working on **a [microservice](https://github.com/SatyaLens/source-score) that stores scores for news/claim sources to see how reliable a source is**
 
 - 🌱 I'm currently learning **everything about developing awesome microservices using Go**
 
