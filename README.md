@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amit Singh
 
-### I am a results-driven Senior Software Engineer with 6+ years of hands-on experience in cloud-native development. I love jumping into new challenges and figuring out creative ways to solve them.
+### I am a results-driven Senior Software Engineer with 7 years of hands-on experience in cloud-native development. I love jumping into new challenges and figuring out creative ways to solve them.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semmet95" alt="semmet95" /></a> </p>
 
