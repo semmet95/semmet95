@@ -52,6 +52,6 @@
 
 ## Latest Blog Posts
 
-- [Source Score: Using AI to automate addition of new sources](https://dev.to/semmet/source-score-using-ai-to-automate-addition-of-new-sources-ego)
+- [Source Score: Continuing Exploration of LLM Usage in Automated Workflows](https://dev.to/semmet/source-score-continuing-exploration-of-llm-usage-in-automated-workflows-eoi)
 - [Sharing music with Navidrome, Filebrowser and Civo](https://dev.to/semmet/sharing-music-with-navidrome-filebrowser-and-civo-17e5)
 - [Experimenting With AI: Part 2](https://medium.com/@singhamit/experimenting-with-ai-part-2-3f6ffa2c96dd)
